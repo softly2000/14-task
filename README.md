@@ -1,3 +1,3 @@
 # 14-task
-<p color="blue"; font-size="20px";>Sulaimanov I<p> 
+<p color="blue";>Sulaimanov I<p> 
 IT-1-22
