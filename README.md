@@ -1,3 +1,3 @@
 # 14-task
-<p color="blue">Sulaimanov I<p> 
+<p>Sulaimanov I<p> 
 IT-1-22
